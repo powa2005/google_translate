@@ -1,0 +1,30 @@
+{
+  "name": "google_translate",
+  "version": "0.0.6",
+  "description": "Call google translation api with Nodejs",
+  "main": "./index",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:powa2005/google_translate.git"
+  },
+  "author": {
+    "name": "powa2005",
+    "email": "powa2005@163.com"
+  },
+  "keywords": [
+    "nodejs",
+    "google api",
+    "google translate",
+    "google translate api"
+  ],
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/powa2005/google_translate",
+  "directories": {}
+}
