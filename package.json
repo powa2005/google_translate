@@ -1,6 +1,6 @@
 {
-  "name": "google_translate",
-  "version": "0.0.6",
+  "name": "google-translate-node",
+  "version": "1.0.1",
   "description": "Call google translation api with Nodejs",
   "main": "./index",
   "repository": {
